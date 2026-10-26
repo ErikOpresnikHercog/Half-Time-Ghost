@@ -6,6 +6,6 @@ Prenesite celotno mapo
 Zaženite exe datoteko poimenovano "Half Time Ghost"
 
 Kontrole:
-WASD za premikanje
-E za pobiranje buč
-E za postavljanje buč na kamnite stebre
+WASD za premikanje.  E za pobiranje buč.  E za postavljanje buč na kamnite stebre
+
+Izvorna koda: https://github.com/ErikOpresnikHercog/HalfTimeGhostBuild
